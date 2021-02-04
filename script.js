@@ -1,6 +1,6 @@
 const nContent = 5;
-const previewURLs = ['content/Previews/Preview_2.png', 'content/Previews/Preview_1.png', 'content/Previews/Preview_3.png', 'content/Previews/Preview_4.png', 'content/Previews/Preview_5.png'];
-const videoURLs = ['content/Video/1024k_compressed.mp4', 'content/Video/512k_compressed.mp4', 'content/Video/LDisk_compressed.mp4', 'content/Video/TwoDisks2_compressed.mp4', 'content/Video/TwoDisks_compressed.mp4'];
+const previewURLs = ['content/Previews/Preview_2.png', 'content/Previews/Preview_5.png', 'content/Previews/Preview_3.png', 'content/Previews/Preview_1.png', 'content/Previews/Preview_4.png'];
+const videoURLs = ['content/Video/1024k_compressed.mp4', 'content/Video/TwoDisks_compressed.mp4', 'content/Video/LDisk_compressed.mp4', 'content/Video/512k_compressed.mp4', 'content/Video/TwoDisks2_compressed.mp4'];
 var navPoints = [], contentDOMs = [], navBar, root, videoSrc, videoDOM;
 var previousScroll = -9999, scrollTransition = false, highlighted = 0, contentOffset = 0,
     navBarClicked = false, contentClicked = false,
