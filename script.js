@@ -149,11 +149,13 @@ function updateContentFocus(newHighlight) {
     if (newHighlight != highlighted) {
         videoDOM.style.opacity = 0;
         setTimeout(() => { videoDOM.style.opacity = 1; }, 350);
-        setTimeout(() => { videoDOM.src = videoURLs[newHighlight]; }, 160);
-        if (newHighlight == 0)
-            videoDOM.playbackRate = 2;
-        else
-            videoDOM.playbackRate = 1;
+        setTimeout(() => { 
+            videoDOM.src = videoURLs[newHighlight];
+            if (newHighlight == 0)
+                videoDOM.playbackRate = 2.0;
+            else
+                videoDOM.playbackRate = 1.0;
+        }, 160);
     }
 
     highlighted = newHighlight;
