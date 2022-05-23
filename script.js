@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function() {
     videoDOM = document.getElementById("video");
 
     videoDOM.src = videoURLs[0];
-    setTimeout(() => { videoDOM.style.opacity = 1; }, 300);
+    setTimeout(() => { videoDOM.style.opacity = 1; videoDOM.playbackRate = 2.0; }, 300);
 
     for (var i = 0; i < nContent; i++) {
         var div = document.createElement("div");
