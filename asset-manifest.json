@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.736eaf5a.css",
+    "main.js": "/static/js/main.c957e61d.js",
+    "static/media/rd-preview.png": "/static/media/rd-preview.aae6e0913abf12add1a5.png",
+    "static/media/DCGAN-preview.png": "/static/media/DCGAN-preview.5d233f0dab5afdb109ec.png",
+    "static/media/me-v6.1.png": "/static/media/me-v6.1.b4ac4edb681cb910983c.png",
+    "static/media/recipes-preview.png": "/static/media/recipes-preview.61618842caebdba670d1.png",
+    "static/media/resume-preview.png": "/static/media/resume-preview.0a91f1ce7f33a0257333.png",
+    "static/media/facebook-preview.png": "/static/media/facebook-preview.32172ee53627e97c26b9.png",
+    "static/media/cnns-preview.png": "/static/media/cnns-preview.380bacba882728dee0b1.png",
+    "static/media/Rocketwildness.ttf": "/static/media/Rocketwildness.596d363dead4c437e0ab.ttf",
+    "static/media/PlusJakartaSans-Light.ttf": "/static/media/PlusJakartaSans-Light.61f0ab11b2a88013dd12.ttf",
+    "static/media/Dune_Rise.otf": "/static/media/Dune_Rise.364c68a41cdafe1da287.otf",
+    "static/media/BigJohnPRO-Regular.otf": "/static/media/BigJohnPRO-Regular.c970d7492008d0f86c96.otf",
+    "static/media/Fontspring-DEMO-flexible-h1000w200.otf": "/static/media/Fontspring-DEMO-flexible-h1000w200.663a8fda31aae81ab432.otf",
+    "static/media/Fontspring-DEMO-flexible-h200w400.otf": "/static/media/Fontspring-DEMO-flexible-h200w400.031a7287673f19ca8a92.otf",
+    "static/media/AppleTea.ttf": "/static/media/AppleTea.6968f2bc79b3bf0ac38d.ttf",
+    "index.html": "/index.html",
+    "main.736eaf5a.css.map": "/static/css/main.736eaf5a.css.map",
+    "main.c957e61d.js.map": "/static/js/main.c957e61d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.736eaf5a.css",
+    "static/js/main.c957e61d.js"
+  ]
+}
